@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @asdf-lab
-- 👀 I’m interested in hacking 
+- 👋 Hi, I’m Alan Sabu
+- 👀 intrestes in hacking only
 - 🌱 I’m currently learning computer skills 
 - 💞️ I’m looking to collaborate on hackers
 - 📫 How to reach me +919446169582
